@@ -1,8 +1,8 @@
 New file for git
 second edit
-this is a new line
-Cold and dry, but everything is my favourite colour
+this is a new li
 Let's cheer, cheer, cheer
-For beers beers beers
-conflicts and merging
+For beers beers beerss
 California sooooon
+Hey, you know what?  It's Friday!
+Resolved!
